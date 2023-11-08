@@ -4,5 +4,5 @@ This project will illustrate my attempt at building a web project using Angular 
 
 ## Subheader
 
-This project was started on XXX
+This project was started on XX/XX/XX
 
